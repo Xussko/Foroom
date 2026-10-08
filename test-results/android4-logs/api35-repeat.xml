@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.foroom.tests.ConversationWithMyFriendTests" tests="3" failures="0" errors="0" skipped="0" time="101.406" timestamp="2026-10-08T14:44:30" hostname="localhost">
+  <properties>
+    <property name="device" value="ForoomAndroid15(AVD) - 15" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="sendDrinkInvitationInJohnWeekAndReadItAfterReopening" classname="com.example.foroom.tests.ConversationWithMyFriendTests" time="26.421" />
+  <testcase name="askAboutFavouriteAutomationAcademyModuleInMyOwnChat" classname="com.example.foroom.tests.ConversationWithMyFriendTests" time="16.11" />
+  <testcase name="readOlderGreetingAsAnotherAccountAndReplyInTheSharedChat" classname="com.example.foroom.tests.ConversationWithMyFriendTests" time="54.973" />
+</testsuite>
